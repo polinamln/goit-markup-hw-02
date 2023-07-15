@@ -196,11 +196,11 @@ body{
 }
 
 .portfolio-button:hover{
-    background-color: #404BBF
+    background-color: #404BBF;
     color: #FFFFFF;
 }
 .portfolio-button:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
     color: #FFFFFF;
 }
  
