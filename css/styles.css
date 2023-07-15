@@ -191,17 +191,17 @@ body{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    border-radius: 4px;
-    border: 1px solid var(--cornflower, #E7E9FC);
     background: var(--cloud, #F4F4FD);
     cursor: pointer;
 }
 
 .portfolio-button:hover{
     background-color: #404BBF
+    color: #FFFFFF;
 }
 .portfolio-button:focus {
     background-color: #404BBF
+    color: #FFFFFF;
 }
  
 
