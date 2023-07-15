@@ -119,7 +119,7 @@ body{
     background-color: #404BBF
 }
 
-.studio-second-h3{
+.studio-second-title{
     color: var(--navyblue, #2E2F42);
     font-size: 20px;
     font-weight: 500;
@@ -205,7 +205,7 @@ body{
 }
  
 
-.first-portfolio-h2{
+.first-portfolio-title{
     color: var(--navyblue, #2E2F42);
     font-size: 20px;
     font-weight: 500;
