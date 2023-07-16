@@ -63,16 +63,11 @@ body{
     color: var(--ocean);
 }
 
-.address{
-    font-style: normal;
-}
 
 .contacts a{
     color: var(--slate);
     font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
@@ -95,7 +90,6 @@ body{
     color: var(--white, #FFF);
     text-align: center;
     font-size: 56px;
-    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
@@ -108,7 +102,6 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--white);
-    cursor: pointer;
 }
 
 .studio-first-button:hover{
@@ -129,7 +122,6 @@ body{
 .studio-second-p{
     color: var(--slate, #434455);
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -138,7 +130,6 @@ body{
     color: var(--navyblue, #2E2F42);
     text-align: center;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -152,7 +143,6 @@ body{
     color: var(--navyblue, #2E2F42);
     text-align: center;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -192,7 +182,6 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     background: var(--cloud, #F4F4FD);
-    cursor: pointer;
 }
 
 .portfolio-button:hover{
